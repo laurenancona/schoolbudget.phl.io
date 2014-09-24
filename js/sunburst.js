@@ -366,4 +366,3 @@ function numberWithCommas(n) {
           .attrTween("d", function(d) { return arcTween.call(this, updateArc(d)); });
     });
   }
-)
